@@ -1,4 +1,4 @@
-[![Tayyab's GitHub Banner](./assets/GitHubHeader.png)]([https://braydoncoyer.dev](https://tayyabaw.github.io/portfolio/))
+[![Tayyab's GitHub Banner](./assets/GithubHeader.png)](https://tayyabaw.github.io/portfolio/)
 
 <h1 align="center">Hey there 👋</h1>
 <h3 align="center">A React/React Native engineer, creative coder and self-proclaimed designer who specializes in front-end development. I make it my mission to translate user-focused designs into pixel-perfect websites or applications that run blazing fast.</h3>
